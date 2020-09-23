@@ -1,5 +1,8 @@
 """
-
+Author: Alex Alvarado
+Program: Coupon_Calculations
+Date: 9-20-20
+Description: calculates the price of a product, taking into consideration a sale, taxes, and coupons.
 """
 
 

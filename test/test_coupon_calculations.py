@@ -1,3 +1,7 @@
+"""
+Description: All of the tests for the coupon_calculations program
+"""
+
 import unittest
 from store import coupon_calculations
 
